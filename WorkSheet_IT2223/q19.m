@@ -1,3 +1,5 @@
+%%%Write a program to calculate the sum of all prime numbers between 1 and 1000 using a for 
+%%%loop and appropriate conditions
 sumOfPrimes = 0;
 for num = 2:1000
 	result = true;

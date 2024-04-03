@@ -1,3 +1,4 @@
+%%%Create a program that generates the multiplication table of a given number using a for loop.
 number=input('Enter a number: ');
 
 disp(['Multiplication Table for ', num2str(number)]);

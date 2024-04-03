@@ -1,3 +1,6 @@
+%%%Develop a program that prompts the user to enter a positive integer and then checks whether 
+%%%it is a Harshad number or not (i.e., divisible by the sum of its digits), using for loops and 
+%%%appropriate arithmetic operations
 num = input('Enter a positive integer: ');
 sumOfDigits = 0;
 tempNum = num;

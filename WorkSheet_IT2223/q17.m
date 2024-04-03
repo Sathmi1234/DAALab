@@ -1,3 +1,5 @@
+%%%Develop a program that prompts the user to enter a string and then counts the number of 
+%%%vowels and consonants in that string using for loops and appropriate conditions.
 str = input('Enter a string: ', 's');
 str = lower(str);
 vowelCount = 0;
